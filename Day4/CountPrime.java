@@ -1,3 +1,4 @@
+package Day4;
 class Solution {
     public int countPrimes(int n) {
         if(n==0||n==1)
