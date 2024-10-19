@@ -18,4 +18,4 @@
     dfs(nums, i + 1, path, ors, ans);
     dfs(nums, i + 1, path | nums[i], ors, ans);
   }
-}; */
+}; *///
