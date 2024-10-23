@@ -13,7 +13,7 @@
 // ll fastmod(ll a,ll b)
 
 // {
-
+//
 //     ll ans=1;
 
 //     a=a%m;
