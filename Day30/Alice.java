@@ -11,7 +11,7 @@
 // int nu,p=1,ans=0;
 
 // scanf("%lld",&n);
-//
+// //
 // nu=sqrt(n);
 
 // while(nu--)
